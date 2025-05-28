@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Carinha de Anjo',
+    'Quem é a protagonista de "Carinha de Anjo"?',
+    'A protagonista é a Dulce Maria, uma menina doce e encantadora.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Novela',
+    'A novela "Carinha de Anjo" é baseada em qual telenovela?',
+    '"Carinha de Anjo" é uma adaptação da telenovela mexicana "Carita de Ángel".'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Carinha de Anjo',
+    ' Quem é o pai da Dulce Maria?',
+    'O pai de Dulce Maria é o Gustavo Lários, interpretado por Carlo Porto.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Novela',
+    'Se a Tia Peruca tivesse um superpoder, qual seria?',
+    'Fazer desaparecer qualquer fio de cabelo bagunçado com um simples estalar de dedos!'
 )
