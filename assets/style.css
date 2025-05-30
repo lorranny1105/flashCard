@@ -1,6 +1,6 @@
 :root {
     --text-color: #ffffff;
-    --card-front-color:#ff74b5;
+    --card-front-color:#ff74b59a;
     --card-back-color: #fbfbfc88;
 }
 
@@ -77,13 +77,13 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color: rgba(9, 118, 219, 0.767);
+    background-color: rgba(95, 66, 226, 0.849);
     border: 4px solid var(--card-back-color);
 }
 
 footer {
-    background-color: rgb(236, 119, 231);
-    color: rgba(221, 14, 240, 0.651);
+    background-color: rgb(212, 119, 236);
+    color: rgba(162, 64, 219, 0.733);
     position: fixed;
     bottom: 0;
     width: 100%;
